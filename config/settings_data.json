@@ -26,6 +26,7 @@
     "secondary_button_background": "#c77c68",
     "secondary_button_text_color": "#ffffff",
     "product_card_text_color": "#1a1a1a",
+    "product_on_sale_accent": "#7b5c50",
     "product_primary_badge_background": "#803cee",
     "heading_font": "din_next_n7",
     "heading_font_size": "large",
