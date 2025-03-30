@@ -12,41 +12,28 @@
     "image_with_text_overlay_gMV4Gr": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_An4MjX": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_Ygg3wX": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_ApYnnH": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "Une peau bronzée uniformément toute l'année",
+            "heading_tag": "h2"
           }
         }
       },
       "block_order": [
-        "subheading_An4MjX",
-        "heading_Ygg3wX",
-        "richtext_ApYnnH"
+        "heading_Ygg3wX"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/portrait-beaute-femme-soin-cheveux-brillant-femme-fond-studio-marron-visage-dame-fille-sourire-joyeux-traitement-salon-luxe-toilettage-cosmetiques-pour-coiffure-bouclee_590464-171468.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 27
       }
     },
     "logo_list_EbrJtd": {
@@ -55,6 +42,7 @@
         "logo_wRNdUt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/download_11.png",
             "logo_width": 120,
             "link": ""
           }
@@ -62,6 +50,7 @@
         "logo_QdAzKi": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -69,6 +58,7 @@
         "logo_CGfCC4": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO_svg_large_1aa8e8f2-33db-4223-aa3c-bc4b513d4e48_large_2_1_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -76,6 +66,7 @@
         "logo_EhckqL": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/download_13.png",
             "logo_width": 120,
             "link": ""
           }
@@ -90,9 +81,9 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
