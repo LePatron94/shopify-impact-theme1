@@ -47,10 +47,10 @@
             "link": ""
           }
         },
-        "logo_QdAzKi": {
+        "logo_EhckqL": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
+            "logo": "shopify://shop_images/Le_Figaro_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,10 +63,10 @@
             "link": ""
           }
         },
-        "logo_EhckqL": {
+        "logo_QdAzKi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Le_Figaro_svg.png",
+            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -74,9 +74,9 @@
       },
       "block_order": [
         "logo_wRNdUt",
-        "logo_QdAzKi",
+        "logo_EhckqL",
         "logo_CGfCC4",
-        "logo_EhckqL"
+        "logo_QdAzKi"
       ],
       "settings": {
         "full_width": true,
