@@ -140,6 +140,7 @@
         "item_HWUQiw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/FaceTanWater_Tara_Before_After_1080x_db383012-0bcd-40b5-bbe5-0da1ad5a2b13.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -152,6 +153,7 @@
         "item_KiwDNd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/61laRmKMIaL._AC_UF350_350_QL80.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -164,6 +166,7 @@
         "item_q4fNyd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/consent_BrianneM_SelfTanner-1024x1024_480x480_f7d423bc-0c57-422f-a214-9fbe2e5262ad.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
