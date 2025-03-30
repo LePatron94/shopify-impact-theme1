@@ -97,12 +97,6 @@
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
@@ -118,7 +112,6 @@
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
@@ -137,32 +130,18 @@
     "rich_text_YENzLK": {
       "type": "rich-text",
       "blocks": {
-        "subheading_C7i7gw": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_FezUET": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Pourquoi choisir Perfect Tan ?",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
-        },
-        "richtext_EdkcYw": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "subheading_C7i7gw",
-        "heading_FezUET",
-        "richtext_EdkcYw"
+        "heading_FezUET"
       ],
       "settings": {
         "full_width": true,
@@ -442,8 +421,8 @@
   "order": [
     "image_with_text_overlay_gMV4Gr",
     "logo_list_EbrJtd",
-    "image-with-text-overlay",
     "rich_text_YENzLK",
+    "image-with-text-overlay",
     "multi_column_BdYaMb",
     "featured-product",
     "faq",
