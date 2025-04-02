@@ -198,6 +198,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_qVwWER": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px; width: fit-content;\">\n  <img src=\"{{ 'note_4_8_etoiles.png' | file_url }}\" alt=\"Note 4.8 étoiles\" style=\"height:20px; width:auto;\">\n  <p style=\"margin:0; font-weight:600; font-size:14px;\">Noté 4.8 par 1073 clientes</p>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -269,6 +275,7 @@
         }
       },
       "block_order": [
+        "liquid_qVwWER",
         "title",
         "liquid_tWkG3m",
         "badges",
