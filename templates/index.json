@@ -348,6 +348,36 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_PUAnFe": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_aGrwCX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DADADA_1.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Le Secret d’un Bronzage Parfait toute l’Année",
+            "content": "<p>A n'importe quelle période de l'année, notre sérum innovant vous aide a afficher <strong>un bronzage lumineux en 2 semaines.</strong></p><p>Obtenez un résultat subtil et naturel, parfait pour illuminer votre teint toute l’année.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_aGrwCX"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -504,6 +534,7 @@
     "image_with_text_overlay_AmHFNX",
     "multi_column_BdYaMb",
     "featured-product",
+    "images_with_text_scrolling_PUAnFe",
     "faq",
     "contact_z9CYVx",
     "text_with_icons_QJfKzR"
