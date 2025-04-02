@@ -134,6 +134,21 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_AmHFNX": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Clear_1.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_BdYaMb": {
       "type": "multi-column",
       "blocks": {
@@ -460,6 +475,7 @@
     "logo_list_EbrJtd",
     "rich_text_YENzLK",
     "image-with-text-overlay",
+    "image_with_text_overlay_AmHFNX",
     "multi_column_BdYaMb",
     "featured-product",
     "faq",
