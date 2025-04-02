@@ -280,6 +280,12 @@
           "type": "badges",
           "settings": {}
         },
+        "kaching_bundles_app_block_9Ui6ex": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "liquid_6xrngG": {
           "type": "liquid",
           "settings": {
@@ -324,6 +330,7 @@
         "liquid_tWkG3m",
         "liquid_qQDN7T",
         "badges",
+        "kaching_bundles_app_block_9Ui6ex",
         "liquid_6xrngG",
         "rating",
         "separator",
