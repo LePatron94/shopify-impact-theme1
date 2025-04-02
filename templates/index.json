@@ -204,6 +204,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_tWkG3m": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color:#fef6f1; border-radius:12px; padding:16px; display:flex; align-items:center; gap:16px; max-width:480px;\">\n  <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Yuka_Logo.png/320px-Yuka_Logo.png\" alt=\"Yuka Logo\" style=\"height:40px; width:auto; border-radius:8px;\">\n  <div>\n    <p style=\"margin:0; font-weight:700; font-size:16px;\">Noté 93 sur 100 – Excellent</p>\n    <p style=\"margin:0; font-size:14px; color:#555;\">Validé sur Yuka pour ses ingrédients.</p>\n  </div>\n</div>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -264,6 +270,7 @@
       },
       "block_order": [
         "title",
+        "liquid_tWkG3m",
         "badges",
         "price",
         "liquid_6xrngG",
