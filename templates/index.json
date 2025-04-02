@@ -201,7 +201,7 @@
         "liquid_qVwWER": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px; width: fit-content;\">\n  <img src=\"{{ 'note_4_8_etoiles.png' | file_url }}\" alt=\"Note 4.8 étoiles\" style=\"height:20px; width:auto;\">\n  <p style=\"margin:0; font-weight:600; font-size:14px;\">Noté 4.8 par 1073 clientes</p>\n</div>"
+            "liquid": "<div style=\"display: inline-flex; align-items: center; gap: 6px;\">\n  <img src=\"{{ 'stars-4.5_1.png' | file_url }}\" alt=\"Note 4.8 étoiles\" style=\"height:14px; width:auto; margin-bottom:1px;\">\n  <span style=\"font-size:13px; font-weight:600;\">Noté 4.8 par 1073 clientes</span>\n</div>"
           }
         },
         "title": {
