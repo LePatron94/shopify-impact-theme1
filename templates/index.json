@@ -252,10 +252,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -278,7 +274,6 @@
         "rating",
         "separator",
         "variant-picker",
-        "quantity-selector",
         "buy-buttons"
       ],
       "settings": {
