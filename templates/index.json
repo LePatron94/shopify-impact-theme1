@@ -226,12 +226,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_6xrngG": {
           "type": "liquid",
           "settings": {
@@ -247,12 +241,6 @@
         "separator": {
           "type": "separator",
           "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
         },
         "variant-picker": {
           "type": "variant_picker",
@@ -286,11 +274,9 @@
         "liquid_tWkG3m",
         "liquid_qQDN7T",
         "badges",
-        "price",
         "liquid_6xrngG",
         "rating",
         "separator",
-        "description",
         "variant-picker",
         "quantity-selector",
         "buy-buttons"
