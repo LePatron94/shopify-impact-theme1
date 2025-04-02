@@ -175,12 +175,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_yHemLN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Sans_titre-1_dee7da00-aaf0-4bcc-8b99-010fd870e6ab.png",
+            "column_size": "3",
+            "title": "Sarah, 24 ans",
+            "heading_tag": "h4",
+            "content": "<p>J’étais déjà bien bronzée donc je l’ai acheté pour rendre mon teint plus lumineux et franchement j’adore le résultat. Un super produit !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_HWUQiw",
         "item_KiwDNd",
-        "item_q4fNyd"
+        "item_q4fNyd",
+        "item_yHemLN"
       ],
       "settings": {
         "full_width": true,
