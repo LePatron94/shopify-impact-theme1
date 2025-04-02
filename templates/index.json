@@ -15,7 +15,7 @@
         "heading_Ygg3wX": {
           "type": "heading",
           "settings": {
-            "text": "Une peau bronzée uniformément, toute l'année",
+            "text": "Le secret d'un bronzage parfait toute l'année",
             "heading_tag": "h2"
           }
         }
@@ -367,7 +367,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
