@@ -11,29 +11,18 @@
   "sections": {
     "image_with_text_overlay_gMV4Gr": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_Ygg3wX": {
-          "type": "heading",
-          "settings": {
-            "text": "Rides visibles, éliminez les définitivement.",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ygg3wX"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/bannercer.png",
+        "mobile_image": "shopify://shop_images/bramsitolastfondgris2.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 27
+        "overlay_opacity": 0
       }
     },
     "logo_list_EbrJtd": {
