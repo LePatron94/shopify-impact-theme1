@@ -452,6 +452,45 @@
             "max_width": 500
           }
         },
+        "separator_EmwWq6": {
+          "type": "separator",
+          "settings": {}
+        },
+        "collapsible_text_jMz7qD": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
+            "content": "<p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements) + 1 Sérum extra offert</li></ul><p></p><ul><li><strong>2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements) + 2 Sérum extra offerts</li></ul><p></p><ul><li><strong>3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements) + 3 Sérum extra offerts</li></ul><p>Chaque kit de micro-infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles (profondeur <strong>0,5 mm</strong>) sont stériles et réutilisables <strong>trois fois</strong>. Ils doivent être <strong>nettoyés </strong>entre chaque utilisation, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>UN GUIDE D’UTILISATION ET DE NETTOYAGE SERA FOURNI DANS L’E-MAIL DE CONFIRMATION DE COMMANDE.</strong></p>"
+          }
+        },
+        "collapsible_text_jwW4Y9": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Composition Sérum Peptide Keralyne",
+            "content": "<p>Notre sérum Peptide Keralyne est formulé avec des ingrédients de haute qualité spécialement sélectionnés pour hydrater, repulper et revitaliser la peau en profondeur.</p><p></p><p><strong>Ingrédients clés</strong></p><p>• <strong>Acide hyaluronique (Sodium Hyaluronate)</strong> : Hydrate intensément la peau et aide à maintenir son élasticité.</p><p>• <strong>Collagène hydrolysé (Hydrolyzed Collagen)</strong> : Contribue à renforcer la structure de la peau et à réduire l’apparence des rides et ridules.</p><p>• <strong>Oligopeptide-1</strong> : Stimule la régénération cellulaire pour une peau plus ferme et éclatante.</p><p>• <strong>Acétyl Hexapeptide-8</strong> : Connue comme une alternative au botox, cette molécule aide à détendre les muscles du visage et à réduire les signes de l’âge.</p><p>• <strong>Carnosine</strong> : Puissant antioxydant qui protège la peau contre le stress oxydatif et le vieillissement prématuré.</p><p>• <strong>Dipotassium Glycyrrhizinate</strong> : Apaisant et anti-inflammatoire, idéal pour calmer les rougeurs et les irritations.</p><p>• <strong>Éthylène Glycol</strong> : Améliore la texture du sérum et facilite son absorption par la peau.</p><p><br/></p><p>Grâce à cette composition innovante, notre sérum Peptide Keralyne booste la production naturelle de collagène et d’élastine, offrant une peau plus lisse, plus ferme et visiblement rajeunie.</p>"
+          }
+        },
+        "collapsible_text_VBNVN9": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>"
+          }
+        },
+        "collapsible_text_reGbA9": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "90 jours Satisfait ou Remboursé",
+            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>"
+          }
+        },
+        "collapsible_text_Mq89VD": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@keralyne.fr</p>"
+          }
+        },
         "liquid_M3H7cp": {
           "type": "liquid",
           "settings": {
@@ -480,6 +519,12 @@
         "essential_countdown_app_block_pGLfL3",
         "buy-buttons",
         "image_V8nPFi",
+        "separator_EmwWq6",
+        "collapsible_text_jMz7qD",
+        "collapsible_text_jwW4Y9",
+        "collapsible_text_VBNVN9",
+        "collapsible_text_reGbA9",
+        "collapsible_text_Mq89VD",
         "liquid_M3H7cp",
         "liquid_7pwRH6"
       ],
