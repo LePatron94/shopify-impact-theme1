@@ -446,6 +446,95 @@
         "input_text_color": ""
       }
     },
+    "multi_column_MBLwmm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_R9fKY7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_2.png",
+            "column_size": "3",
+            "title": "Peptides de collagène",
+            "heading_tag": "h4",
+            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fKtXLR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/elastyn.png",
+            "column_size": "3",
+            "title": "Élastine",
+            "heading_tag": "h4",
+            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FmbBkg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_4.png",
+            "column_size": "3",
+            "title": "Acide hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JpL93j": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_1.png",
+            "column_size": "3",
+            "title": "Glycérine",
+            "heading_tag": "h4",
+            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Uc3V9F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/squalane.png",
+            "column_size": "3",
+            "title": "Squalane",
+            "heading_tag": "h4",
+            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_R9fKY7",
+        "item_fKtXLR",
+        "item_FmbBkg",
+        "item_JpL93j",
+        "item_Uc3V9F"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "images_with_text_scrolling_PUAnFe": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -463,6 +552,7 @@
       "block_order": [
         "item_aGrwCX"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
@@ -633,6 +723,7 @@
     "multi_column_BdYaMb",
     "rich_text_deKKTD",
     "featured-product",
+    "multi_column_MBLwmm",
     "images_with_text_scrolling_PUAnFe",
     "faq",
     "contact_z9CYVx",
