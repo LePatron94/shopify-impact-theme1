@@ -187,9 +187,9 @@
           "settings": {
             "image": "shopify://shop_images/9.png",
             "column_size": "3",
-            "title": "Sophie, 28 ans",
+            "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Ce sérum est une vraie pépite! En trois semaines, j’ai un joli teint bronzé et lumineux, parfait pour oublier l’hiver. Facile à utiliser et super efficace, j’adore</p>",
+            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -200,9 +200,9 @@
           "settings": {
             "image": "shopify://shop_images/1_852897db-d47f-49ce-bca7-6b8809be8432.png",
             "column_size": "3",
-            "title": "Laura, 19 ans",
+            "title": "Agathe",
             "heading_tag": "h4",
-            "content": "<p>Je ne m'attendais pas a un tel résultat... En quelques semaines j'ai un teint doré hyper naturel, sans effort. c'est devenu mon go-to. Trop fan !</p>",
+            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -213,9 +213,9 @@
           "settings": {
             "image": "shopify://shop_images/2_3ce5e558-129d-4c8f-a4ec-56c9a908e97c.png",
             "column_size": "3",
-            "title": "Isabelle, 35 ans",
+            "title": "Sylvie",
             "heading_tag": "h4",
-            "content": "<p>Juste incroyable ! Avant je prenais des gummies mais ça marchait pas vraiment puis j’ai découvert ce sérum et en 3 semaines j’ai eu des résultats de dingue.</p>",
+            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -226,9 +226,9 @@
           "settings": {
             "image": "shopify://shop_images/3_862826fa-28ab-4253-aa93-dc5df9945111.png",
             "column_size": "3",
-            "title": "Sarah, 24 ans",
+            "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p>J’étais déjà bien bronzée donc je l’ai acheté pour rendre mon teint plus lumineux et franchement j’adore le résultat. Un super produit !</p>",
+            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -239,9 +239,9 @@
           "settings": {
             "image": "shopify://shop_images/4_06841171-502f-4586-af79-263dcee166a6.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Christelle",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -252,9 +252,9 @@
           "settings": {
             "image": "shopify://shop_images/5_da2a764f-da70-4722-8825-443f7d82b9b7.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Tiphaine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -265,9 +265,9 @@
           "settings": {
             "image": "shopify://shop_images/7.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
