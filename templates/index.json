@@ -327,24 +327,14 @@
     "rich_text_deKKTD": {
       "type": "rich-text",
       "blocks": {
-        "heading_whaAcb": {
-          "type": "heading",
-          "settings": {
-            "text": "Nos clientes en parlent le mieux",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "liquid_HQtwiQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 24px 16px; text-align: center; max-width: 700px; margin: auto;\">\n  \n  <h2 style=\"font-size: 24px; font-weight: 700; margin: 0 0 20px;\">\n    Nos clientes en parlent le mieux\n  </h2>\n\n  <div style=\"font-size: 20px; font-weight: 500; margin-bottom: 10px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;\">\n    Excellent <span style=\"font-weight: 800;\">4.7 / 5</span>\n    <img src=\"{{ 'stars-4.5_1.png' | file_url }}\" alt=\"Étoiles Trustpilot\" style=\"height: 28px; vertical-align: middle;\">\n  </div>\n\n  <div style=\"font-size: 17px; color: #111; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;\">\n    basé sur <span style=\"font-weight: 700; text-decoration: underline;\">+1 067</span> avis\n    <img src=\"{{ 'Trustpilot_logo_1.png' | file_url }}\" alt=\"Trustpilot\" style=\"height: 20px; vertical-align: middle;\">\n  </div>\n\n</div>"
+            "liquid": "<div style=\"padding: 24px 16px; text-align: center; max-width: 700px; margin: auto;\">\n  \n  <h2 style=\"font-size: 28px; font-weight: 700; margin: 0 0 24px;\">\n    Nos clientes en parlent le mieux\n  </h2>\n\n  <div style=\"font-size: 24px; font-weight: 500; margin-bottom: 14px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;\">\n    Excellent <span style=\"font-weight: 800;\">4.7 / 5</span>\n    <img src=\"{{ 'stars-4.5_1.png' | file_url }}\" alt=\"Étoiles Trustpilot\" style=\"height: 34px; vertical-align: middle;\">\n  </div>\n\n  <div style=\"font-size: 20px; color: #111; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;\">\n    basé sur <span style=\"font-weight: 700; text-decoration: underline;\">+1 067</span> avis\n    <img src=\"{{ 'Trustpilot_logo_1.png' | file_url }}\" alt=\"Trustpilot\" style=\"height: 22px; vertical-align: middle;\">\n  </div>\n\n</div>"
           }
         }
       },
       "block_order": [
-        "heading_whaAcb",
         "liquid_HQtwiQ"
       ],
       "settings": {
