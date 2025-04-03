@@ -371,16 +371,24 @@
           "type": "badges",
           "settings": {}
         },
+        "liquid_6xrngG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 12px;\n    font-weight: bold; /* Ajout du gras */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: bold; /* Ajout du gras */\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 ‎pièces</div>\n</div>"
+          }
+        },
         "kaching_bundles_app_block_9Ui6ex": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
           }
         },
-        "liquid_6xrngG": {
-          "type": "liquid",
+        "image_NdzGpi": {
+          "type": "image",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 12px;\n    font-weight: bold; /* Ajout du gras */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: bold; /* Ajout du gras */\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 ‎pièces</div>\n</div>"
+            "image": "shopify://shop_images/keralynefdmjpifq.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "rating": {
@@ -421,8 +429,9 @@
         "liquid_tWkG3m",
         "liquid_qQDN7T",
         "badges",
-        "kaching_bundles_app_block_9Ui6ex",
         "liquid_6xrngG",
+        "kaching_bundles_app_block_9Ui6ex",
+        "image_NdzGpi",
         "rating",
         "separator",
         "variant-picker",
