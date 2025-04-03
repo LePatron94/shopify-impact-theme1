@@ -36,10 +36,18 @@
             "link": ""
           }
         },
+        "logo_QdAzKi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_EhckqL": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Le_Figaro_svg.png",
+            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -47,15 +55,7 @@
         "logo_CGfCC4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Le_Parisien_logo_svg.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_QdAzKi": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
+            "logo": "shopify://shop_images/Marie_Claire_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,9 +63,9 @@
       },
       "block_order": [
         "logo_wRNdUt",
+        "logo_QdAzKi",
         "logo_EhckqL",
-        "logo_CGfCC4",
-        "logo_QdAzKi"
+        "logo_CGfCC4"
       ],
       "settings": {
         "full_width": true,
