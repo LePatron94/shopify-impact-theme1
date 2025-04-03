@@ -130,7 +130,7 @@
           "type": "heading",
           "settings": {
             "text": "Résultats Avant/Après",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -299,7 +299,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Les résulats parlent d'eux-mêmes...",
         "content": "",
