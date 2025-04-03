@@ -421,6 +421,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_V8nPFi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -435,7 +443,8 @@
         "rating",
         "separator",
         "variant-picker",
-        "buy-buttons"
+        "buy-buttons",
+        "image_V8nPFi"
       ],
       "settings": {
         "full_width": false,
