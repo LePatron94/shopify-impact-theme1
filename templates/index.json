@@ -834,7 +834,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#7693a4",
+        "accordion_background": "#edeff0",
         "accordion_text_color": ""
       }
     },
@@ -852,7 +852,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "#708ea0",
+        "contact_background": "#edeff0",
         "contact_text_color": "#020202",
         "button_background": "#2e3e47",
         "button_text_color": ""
