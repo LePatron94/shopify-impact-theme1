@@ -155,7 +155,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/AVANT.png",
+        "image": "shopify://shop_images/5_da2a764f-da70-4722-8825-443f7d82b9b7.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -169,7 +169,7 @@
         "item_HWUQiw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/9.png",
             "column_size": "3",
             "title": "Sophie, 28 ans",
             "heading_tag": "h4",
@@ -182,7 +182,7 @@
         "item_KiwDNd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANTLAST.png",
+            "image": "shopify://shop_images/1_852897db-d47f-49ce-bca7-6b8809be8432.png",
             "column_size": "3",
             "title": "Laura, 19 ans",
             "heading_tag": "h4",
@@ -195,7 +195,7 @@
         "item_q4fNyd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/2_3ce5e558-129d-4c8f-a4ec-56c9a908e97c.png",
             "column_size": "3",
             "title": "Isabelle, 35 ans",
             "heading_tag": "h4",
@@ -208,7 +208,7 @@
         "item_yHemLN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/3_862826fa-28ab-4253-aa93-dc5df9945111.png",
             "column_size": "3",
             "title": "Sarah, 24 ans",
             "heading_tag": "h4",
@@ -221,7 +221,7 @@
         "item_TitDLa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT.png",
+            "image": "shopify://shop_images/4_06841171-502f-4586-af79-263dcee166a6.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -234,7 +234,7 @@
         "item_RrmKNa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT2.png",
+            "image": "shopify://shop_images/5_da2a764f-da70-4722-8825-443f7d82b9b7.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -247,7 +247,7 @@
         "item_LBqHeJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/7.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -273,7 +273,7 @@
         "item_Jx9yf8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6.png",
+            "image": "shopify://shop_images/8.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
