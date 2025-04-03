@@ -339,7 +339,7 @@
         "liquid_HQtwiQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 24px 16px; text-align: center; max-width: 700px; margin: auto;\">\n  \n\n  <div style=\"font-size: 20px; font-weight: 500; margin-bottom: 10px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;\">\n    Excellent <span style=\"font-weight: 800;\">4.7 / 5</span>\n    <img src=\"{{ 'stars-4.5_1.png' | file_url }}\" alt=\"Étoiles Trustpilot\" style=\"height: 28px; vertical-align: middle;\">\n  </div>\n\n  <div style=\"font-size: 17px; color: #111; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;\">\n    basé sur <span style=\"font-weight: 700; text-decoration: underline;\">+1 067</span> avis\n    <img src=\"{{ 'Trustpilot_logo_1.png' | file_url }}\" alt=\"Trustpilot\" style=\"height: 20px; vertical-align: middle;\">\n  </div>\n\n</div>"
+            "liquid": ""
           }
         }
       },
@@ -451,6 +451,12 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "liquid_7pwRH6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section style=\"padding: 20px 0; text-align: center;\">\n  <h2 style=\"font-size: 22px; font-weight: 700; margin-bottom: 16px;\">\n    Découvrez leurs stories ✨\n  </h2>\n\n  <div style=\"display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;\">\n    {% for block in section.blocks limit:3 %}\n      <div style=\"position: relative;\">\n        <a href=\"#story-{{ forloop.index }}\" onclick=\"openStory('{{ block.settings.video_url }}'); return false;\" style=\"display: block; width: 80px; height: 80px; border-radius: 50%; border: 3px solid #1b4fa0; overflow: hidden;\">\n          <img src=\"{{ block.settings.thumbnail | image_url }}\" alt=\"Story {{ forloop.index }}\" style=\"width: 100%; height: 100%; object-fit: cover;\">\n        </a>\n      </div>\n    {% endfor %}\n  </div>\n\n  <div id=\"storyLightbox\" style=\"display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:9999;\">\n    <div style=\"position:relative; max-width:90%; max-height:80%;\">\n      <button onclick=\"closeStory()\" style=\"position:absolute; top:-40px; right:0; background:none; color:white; font-size:28px; border:none; cursor:pointer;\">&times;</button>\n      <iframe id=\"storyIframe\" src=\"\" style=\"width:100%; height:100%; border:none; border-radius:16px;\" allowfullscreen></iframe>\n    </div>\n  </div>\n\n  <script>\n    function openStory(url) {\n      document.getElementById('storyIframe').src = url;\n      document.getElementById('storyLightbox').style.display = 'flex';\n    }\n    function closeStory() {\n      document.getElementById('storyLightbox').style.display = 'none';\n      document.getElementById('storyIframe').src = '';\n    }\n  </script>\n</section>"
+          }
         }
       },
       "block_order": [
@@ -467,7 +473,8 @@
         "variant-picker",
         "essential_countdown_app_block_pGLfL3",
         "buy-buttons",
-        "image_V8nPFi"
+        "image_V8nPFi",
+        "liquid_7pwRH6"
       ],
       "settings": {
         "full_width": false,
