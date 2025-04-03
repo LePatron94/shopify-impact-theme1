@@ -566,6 +566,81 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_8k8bHc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_frttTx": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/bdb45a2c67fa4300852782da101d83d9.mp4",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NN34fP": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/b367039c35d94025a2fecf920241dd0d.mp4",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aFcpVw": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f4b718da87294f56afa3e8eb6ec779f3.mp4",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nEbE68": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/3d97aa01947b428c8e7aca007340811b.mp4",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_frttTx",
+        "item_NN34fP",
+        "item_aFcpVw",
+        "item_nEbE68"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Une peau rajeunie en seulement 4 étapes",
+        "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines </strong>pour des résultats optimaux.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -725,6 +800,7 @@
     "featured-product",
     "multi_column_MBLwmm",
     "images_with_text_scrolling_PUAnFe",
+    "multi_column_8k8bHc",
     "faq",
     "contact_z9CYVx",
     "text_with_icons_QJfKzR"
