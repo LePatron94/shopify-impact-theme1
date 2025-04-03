@@ -315,7 +315,7 @@
           "type": "heading",
           "settings": {
             "text": "Nos clientes en parlent le mieux",
-            "heading_tag": "h2",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
@@ -343,6 +343,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_qVwWER": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: inline-flex; align-items: center; gap: 6px;\">\n  <img src=\"{{ 'stars-4.5_1.png' | file_url }}\" alt=\"Note 4.8 étoiles\" style=\"height:14px; width:auto; margin-bottom:1px;\">\n  <span style=\"font-size:13px; font-weight:600;\">Noté 4.8 par 1073 clientes</span>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -410,6 +416,7 @@
         }
       },
       "block_order": [
+        "liquid_qVwWER",
         "title",
         "liquid_tWkG3m",
         "liquid_qQDN7T",
