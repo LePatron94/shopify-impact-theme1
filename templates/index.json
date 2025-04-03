@@ -15,7 +15,7 @@
         "heading_Ygg3wX": {
           "type": "heading",
           "settings": {
-            "text": "Le secret caché d'un bronzage parfait toute l'année",
+            "text": "Rides visibles, éliminez les définitivement.",
             "heading_tag": "h2"
           }
         }
@@ -166,7 +166,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Clear_1.jpg",
+        "image": "shopify://shop_images/AVANT.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
