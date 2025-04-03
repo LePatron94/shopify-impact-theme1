@@ -28,7 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/portrait-beaute-femme-soin-cheveux-brillant-femme-fond-studio-marron-visage-dame-fille-sourire-joyeux-traitement-salon-luxe-toilettage-cosmetiques-pour-coiffure-bouclee_590464-171468.jpg",
+        "image": "shopify://shop_images/bannercer.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
