@@ -780,6 +780,20 @@
             "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
             "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
           }
+        },
+        "item_EbaLgR": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr pour tous les types de peau?",
+            "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si vous avez une affection cutanée sérieuse, il est recommandé de consulter votre médecin avant d'utiliser le produit.</p>"
+          }
+        },
+        "item_4WiRVa": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce efficace autour des yeux, des paupières et sur le cou?",
+            "content": "<p>Oui, il fonctionne pratiquement partout, car le vieillissement de la peau sur tout le corps est causé par la perte de collagène, ce que notre système traite en seulement quelques séances !<br/><br/>Cependant, évitez d'appliquer le dispositif trop près de la zone délicate des yeux, notamment directement sur les paupières ou la ligne des cils. Maintenez une distance d'au moins 3 cm (1,5 pouce) des yeux.<br/><br/>Pour les lèvres, appliquez délicatement l'appareil directement sur les lèvres pour de meilleurs résultats.<br/><br/>Vous pouvez également suivre notre guide vidéo étape par étape que vous recevrez avec votre commande.</p>"
+          }
         }
       },
       "block_order": [
@@ -798,7 +812,9 @@
         "item_qKVjzU",
         "item_bpNHRE",
         "item_6CFmph",
-        "item_R6dmbp"
+        "item_R6dmbp",
+        "item_EbaLgR",
+        "item_4WiRVa"
       ],
       "settings": {
         "full_width": false,
