@@ -180,7 +180,7 @@
         "item_HWUQiw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/FaceTanWater_Tara_Before_After_1080x_db383012-0bcd-40b5-bbe5-0da1ad5a2b13.jpg",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Sophie, 28 ans",
             "heading_tag": "h4",
@@ -193,7 +193,7 @@
         "item_KiwDNd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/61laRmKMIaL._AC_UF350_350_QL80.jpg",
+            "image": "shopify://shop_images/AVANTLAST.png",
             "column_size": "3",
             "title": "Laura, 19 ans",
             "heading_tag": "h4",
@@ -206,7 +206,7 @@
         "item_q4fNyd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/consent_BrianneM_SelfTanner-1024x1024_480x480_f7d423bc-0c57-422f-a214-9fbe2e5262ad.jpg",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Isabelle, 35 ans",
             "heading_tag": "h4",
@@ -219,11 +219,76 @@
         "item_yHemLN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre-1_dee7da00-aaf0-4bcc-8b99-010fd870e6ab.png",
+            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "Sarah, 24 ans",
             "heading_tag": "h4",
             "content": "<p>J’étais déjà bien bronzée donc je l’ai acheté pour rendre mon teint plus lumineux et franchement j’adore le résultat. Un super produit !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TitDLa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVANT.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RrmKNa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVANT2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LBqHeJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rMA6QF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Jx9yf8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -234,7 +299,12 @@
         "item_HWUQiw",
         "item_KiwDNd",
         "item_q4fNyd",
-        "item_yHemLN"
+        "item_yHemLN",
+        "item_TitDLa",
+        "item_RrmKNa",
+        "item_LBqHeJ",
+        "item_rMA6QF",
+        "item_Jx9yf8"
       ],
       "settings": {
         "full_width": true,
