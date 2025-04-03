@@ -276,11 +276,11 @@
         "item_rMA6QF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
+            "image": "shopify://shop_images/4_1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Estelle",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
