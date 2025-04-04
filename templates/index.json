@@ -326,17 +326,6 @@
     },
     "rich_text_deKKTD": {
       "type": "rich-text",
-      "blocks": {
-        "liquid_HQtwiQ": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"padding: 24px 16px; text-align: center; max-width: 700px; margin: auto;\">\n  \n  <h2 style=\"font-size: 24px; font-weight: 700; margin: 0 0 20px;\">\n    Nos clientes en parlent le mieux\n  </h2>\n\n  <div style=\"font-size: 20px; font-weight: 500; margin-bottom: 10px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;\">\n    Excellent <span style=\"font-weight: 800;\">4.7 / 5</span>\n    <img src=\"{{ 'stars-4.5_1.png' | file_url }}\" alt=\"Étoiles Trustpilot\" style=\"height: 28px; vertical-align: middle;\">\n  </div>\n\n  <div style=\"font-size: 17px; color: #111; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;\">\n    basé sur <span style=\"font-weight: 700; text-decoration: underline;\">+1 067</span> avis\n    <img src=\"{{ 'Trustpilot_logo_1.png' | file_url }}\" alt=\"Trustpilot\" style=\"height: 20px; vertical-align: middle;\">\n  </div>\n\n</div>"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_HQtwiQ"
-      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -365,12 +354,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"background-color:#d6f1f0; border-radius:8px; padding:8px 12px; display:flex; align-items:center; gap:8px; width: fit-content;\">\n  <img src=\"{{ 'yuka_badge_2_small_201fcb3a-33b7-48bb-8808-ed8c5212d14b.png' | file_url }}\" alt=\"Badge Yuka\" style=\"height:28px; width:auto; border-radius:4px;\">\n  <div style=\"line-height:1.2;\">\n    <p style=\"margin:0; font-weight:600; font-size:14px;\">Noté 93 sur 100 – Excellent</p>\n    <p style=\"margin:0; font-size:12px; color:#333;\">Validé sur Yuka pour ses ingrédients.</p>\n  </div>\n</div>"
-          }
-        },
-        "liquid_qQDN7T": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px; line-height: 1.4;\">\n    <svg style=\"width: 18px; height: 18px; margin-right: 8px;\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#1faca2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" />\n      <path d=\"M9 12l2 2l4 -4\" />\n    </svg>\n    Lisse les Rides sur le Long Terme\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px; line-height: 1.4;\">\n    <svg style=\"width: 18px; height: 18px; margin-right: 8px;\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#1faca2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" />\n      <path d=\"M9 12l2 2l4 -4\" />\n    </svg>\n    Relance la Production de Collagène\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px; line-height: 1.4;\">\n    <svg style=\"width: 18px; height: 18px; margin-right: 8px;\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#1faca2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" />\n      <path d=\"M9 12l2 2l4 -4\" />\n    </svg>\n    Efface les poches sous les yeux\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px; line-height: 1.4;\">\n    <svg style=\"width: 18px; height: 18px; margin-right: 8px;\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#1faca2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" />\n      <path d=\"M9 12l2 2l4 -4\" />\n    </svg>\n    Effet Éclatant et Durable\n  </li>\n  <li style=\"display: flex; align-items: center; line-height: 1.4;\">\n    <span style=\"font-size: 18px; margin-right: 8px;\">🇫🇷</span>\n    <strong>Marque Française</strong>\n  </li>\n</ul>"
           }
         },
         "badges": {
@@ -498,7 +481,6 @@
         "liquid_qVwWER",
         "title",
         "liquid_tWkG3m",
-        "liquid_qQDN7T",
         "badges",
         "liquid_6xrngG",
         "kaching_bundles_app_block_9Ui6ex",
@@ -903,6 +885,26 @@
         "accordion_text_color": ""
       }
     },
+    "contact_z9CYVx": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question ?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "#edeff0",
+        "contact_text_color": "#020202",
+        "button_background": "#2e3e47",
+        "button_text_color": ""
+      }
+    },
     "17437251330269f6d6": {
       "type": "apps",
       "blocks": {
@@ -934,26 +936,6 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
-      }
-    },
-    "contact_z9CYVx": {
-      "type": "contact",
-      "settings": {
-        "full_width": true,
-        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
-        "title": "Une question ?",
-        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "#edeff0",
-        "contact_text_color": "#020202",
-        "button_background": "#2e3e47",
-        "button_text_color": ""
       }
     },
     "text_with_icons_QJfKzR": {
