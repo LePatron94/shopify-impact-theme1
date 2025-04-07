@@ -260,7 +260,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/RICO.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
