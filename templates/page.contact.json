@@ -23,7 +23,7 @@
         "subheading": "Contact",
         "title": "Avez vous une question?",
         "content": "<p>Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h</p>",
-        "text_position": "start",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
