@@ -236,7 +236,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/nnnnnnnnnn.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
@@ -272,7 +272,7 @@
         "image_PzR4cx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MJOJOP.png",
+            "image": "shopify://shop_images/NINAO.png",
             "alignment": "start",
             "max_width": 500
           }
