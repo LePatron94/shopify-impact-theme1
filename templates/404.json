@@ -200,10 +200,6 @@
     "featured_product_nAyqRH": {
       "type": "featured-product",
       "blocks": {
-        "vendor_CBcUJQ": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_DtQJfN": {
           "type": "title",
           "settings": {
@@ -267,7 +263,6 @@
         }
       },
       "block_order": [
-        "vendor_CBcUJQ",
         "title_DtQJfN",
         "badges_KVrBWP",
         "price_FRaCwz",
@@ -330,8 +325,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Heading",
-        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "title": "FAQ",
+        "content": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
@@ -350,10 +345,10 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
-        "content": "",
-        "text_position": "start",
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question ?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
