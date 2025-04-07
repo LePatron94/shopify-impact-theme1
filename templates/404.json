@@ -15,7 +15,7 @@
         "heading_Xxyiti": {
           "type": "heading",
           "settings": {
-            "text": "Changez enfin de physique dès aujourd'hui",
+            "text": "Ta salle de sport tiens dans un sac, et dans un geste",
             "heading_tag": "h1"
           }
         }
@@ -81,9 +81,9 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
