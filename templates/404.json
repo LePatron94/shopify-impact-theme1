@@ -39,10 +39,18 @@
     "logo_list_h4bnAn": {
       "type": "logo-list",
       "blocks": {
+        "logo_UTqWj4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/mens-health-logo-1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
         "logo_CCLFK4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/TS-small.png",
+            "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -50,32 +58,24 @@
         "logo_bGXjQf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_BFMTV_2019_svg.png",
+            "logo": "shopify://shop_images/BFMBUSINESS-2023_svg.png",
             "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_UTqWj4": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
-            "logo_width": 300,
             "link": ""
           }
         },
         "logo_iNPQcj": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Men_s_Health_svg.png",
+            "logo": "shopify://shop_images/equipe-logo.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
+        "logo_UTqWj4",
         "logo_CCLFK4",
         "logo_bGXjQf",
-        "logo_UTqWj4",
         "logo_iNPQcj"
       ],
       "settings": {
