@@ -140,6 +140,7 @@
         "item_LWcWVR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/UYyPtZB.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
