@@ -51,7 +51,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34.webp",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -59,7 +59,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/BFMBUSINESS-2023_svg.png",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -67,7 +67,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/equipe-logo.png",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         }
