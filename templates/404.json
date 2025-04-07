@@ -229,6 +229,20 @@
           "type": "separator",
           "settings": {}
         },
+        "image_PzR4cx": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
+        "image_BQTGn3": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "description_YjaCGe": {
           "type": "description",
           "settings": {
@@ -263,6 +277,14 @@
         "pickup_availability_46hwQK": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_qPH9xW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_6-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -271,11 +293,14 @@
         "price_FRaCwz",
         "rating_6wVgrd",
         "separator_rDMEtm",
+        "image_PzR4cx",
+        "image_BQTGn3",
         "description_YjaCGe",
         "variant_picker_kTXhrt",
         "quantity_selector_QTgwNg",
         "buy_buttons_gNBgWb",
-        "pickup_availability_46hwQK"
+        "pickup_availability_46hwQK",
+        "image_qPH9xW"
       ],
       "settings": {
         "full_width": true,
