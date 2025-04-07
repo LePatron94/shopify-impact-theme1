@@ -94,6 +94,31 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_HXXjDj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CC3zFN": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir AlphaBar Pro ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CC3zFN"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_fFkLnQ": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -405,6 +430,7 @@
   "order": [
     "image_with_text_overlay_CCFzfM",
     "logo_list_h4bnAn",
+    "rich_text_HXXjDj",
     "image_with_text_overlay_fFkLnQ",
     "multi_column_nAdwdn",
     "main",
