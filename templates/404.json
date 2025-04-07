@@ -292,35 +292,106 @@
         "input_text_color": ""
       }
     },
+    "multi_column_tdt64i": {
+      "type": "multi-column",
+      "blocks": {
+        "item_CDQqDM": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/d99363f8ba8d47d296585dc4f0a5fa4a.HD-1080p-7.2Mbps-45267038.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NnPxLD": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/3db26fabb3b343769009a8c31ecd43f7.HD-1080p-7.2Mbps-45267208 (1).mp4",
+            "column_size": "3",
+            "title": "Niveaux de résistance illimités – idéal pour  tous les niveaux de force",
+            "heading_tag": "h2",
+            "content": "<p>L'AlphaBar utilise <strong>une technologie de résistance progressive</strong> qui s'adapte à votre effort : poussez plus fort pour plus de résistance, relâchez pour moins. Cette réponse dynamique assure une activation musculaire plus profonde, des gains de force accélérés et des résultats plus rapides et plus efficaces.</p><p>check_circle<em>conception sans blessure et douce pour les articulations</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_CDQqDM",
+        "item_NnPxLD"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Construisez un corps mince et défini en seulement 30 jours",
+        "content": "<p>Contrairement aux <strong>routines de gym conventionnelles </strong>qui ciblent un nombre limité de fibres musculaires à la fois, </p><p>l'<strong>AlphaBar </strong>répond à la courbe de force naturelle de votre corps,</p><p> activant plus de fibres à la fois pour accélérer les résultats et sculpter un physique plus défini </p><p>avec seulement un mois d'utilisation régulière.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "accordion_content_EGXxBy": {
       "type": "accordion-content",
       "blocks": {
         "item_CKqbrC": {
           "type": "item",
           "settings": {
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+            "title": "Qu'est-ce qui distingue l'AlphaBar Pro ?",
+            "content": "<p>L'AlphaBar Pro associe résistance progressive et activation isométrique pour maintenir vos muscles sous tension constante, <br/><br/>ce qui permet une amélioration plus rapide de la force, un engagement musculaire accru et une sensation de pompe incomparable.<br/><br/> Idéale pour s'entraîner à la maison, en déplacement ou pour améliorer votre routine sportive.</p>"
           }
         },
         "item_VfXNgh": {
           "type": "item",
           "settings": {
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+            "title": "Est-ce bon pour les débutants et les haltérophiles expérimentés ?",
+            "content": "<p>Oui ! Que vous soyez un haltérophile chevronné, un athlète passionné ou que vous débutiez votre parcours de remise en forme, <br/><br/>AlphaBar est conçu pour vous mettre au défi et vous accompagner dans votre progression, quel que soit votre niveau.</p>"
           }
         },
         "item_zGa4E3": {
           "type": "item",
           "settings": {
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+            "title": "Peut-il vraiment développer plus de muscles que les exercices traditionnels ?",
+            "content": "<p>C'est possible ! La tension constante et la résistance basée sur l'effort favorisent la croissance musculaire tout en améliorant la force et l'endurance globales, <br/><br/>ce qui en fait une alternative efficace aux méthodes d'entraînement conventionnelles.</p>"
+          }
+        },
+        "item_xGAJjR": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il portable et adapté aux voyages ?",
+            "content": "<p>Absolument. L'AlphaBar est légère, compacte et facile à transporter : idéale pour maintenir la régularité de vos entraînements à la maison, à la salle de sport ou partout ailleurs.</p>"
+          }
+        },
+        "item_p8tdhV": {
+          "type": "item",
+          "settings": {
+            "title": "Offrez-vous une garantie de remboursement ?",
+            "content": "<p>Oui, nous offrons une garantie satisfait ou remboursé de 30 jours. Contactez-nous par e-mail ou laissez-nous un message sur la page « Contactez-nous ».</p>"
+          }
+        },
+        "item_QUNekn": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps prend l'expédition ?",
+            "content": "<p>Nous proposons une expédition suivie et assurée dans le monde entier de 7 à 14 jours ouvrables.</p>"
           }
         }
       },
       "block_order": [
         "item_CKqbrC",
         "item_VfXNgh",
-        "item_zGa4E3"
+        "item_zGa4E3",
+        "item_xGAJjR",
+        "item_p8tdhV",
+        "item_QUNekn"
       ],
       "settings": {
         "full_width": true,
@@ -444,6 +515,7 @@
     "multi_column_nAdwdn",
     "main",
     "featured_product_nAyqRH",
+    "multi_column_tdt64i",
     "accordion_content_EGXxBy",
     "contact_iq4LtF",
     "text_with_icons_YeNwkz"
