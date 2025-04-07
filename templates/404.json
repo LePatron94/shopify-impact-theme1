@@ -42,6 +42,7 @@
         "logo_CCLFK4": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/TS-small.png",
             "logo_width": 120,
             "link": ""
           }
@@ -49,6 +50,7 @@
         "logo_bGXjQf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Logo_BFMTV_2019_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -56,13 +58,15 @@
         "logo_UTqWj4": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_iNPQcj": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Men_s_Health_svg.png",
             "logo_width": 120,
             "link": ""
           }
