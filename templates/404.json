@@ -229,6 +229,25 @@
           "type": "separator",
           "settings": {}
         },
+        "image_BQTGn3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NLDKQSKLQNKDL.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
+        "buy_buttons_gNBgWb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#1c7a8c",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "image_PzR4cx": {
           "type": "image",
           "settings": {
@@ -237,11 +256,12 @@
             "max_width": 500
           }
         },
-        "image_BQTGn3": {
+        "image_qPH9xW": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/Screenshot_6-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "description_YjaCGe": {
@@ -264,28 +284,9 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_gNBgWb": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
         "pickup_availability_46hwQK": {
           "type": "pickup_availability",
           "settings": {}
-        },
-        "image_qPH9xW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_6-removebg-preview.png",
-            "alignment": "center",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -294,14 +295,14 @@
         "price_FRaCwz",
         "rating_6wVgrd",
         "separator_rDMEtm",
-        "image_PzR4cx",
         "image_BQTGn3",
+        "buy_buttons_gNBgWb",
+        "image_PzR4cx",
+        "image_qPH9xW",
         "description_YjaCGe",
         "variant_picker_kTXhrt",
         "quantity_selector_QTgwNg",
-        "buy_buttons_gNBgWb",
-        "pickup_availability_46hwQK",
-        "image_qPH9xW"
+        "pickup_availability_46hwQK"
       ],
       "settings": {
         "full_width": true,
