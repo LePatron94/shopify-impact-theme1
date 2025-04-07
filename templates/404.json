@@ -142,9 +142,9 @@
           "settings": {
             "image": "shopify://shop_images/RUvNbPM.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Entraînements intenses, zéro douleur articulaire",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>J'ai toujours souffert de douleurs articulaires dues au port de charges lourdes, mais la résistance douce de l'AlphaBar me permet de m'entraîner intensément sans effort. Mes muscles sont plus forts et mes articulations sont plus belles que jamais !</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -155,9 +155,9 @@
           "settings": {
             "image": "shopify://shop_images/M9WWfjz.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Parfait pour l'entraînement à domicile",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>Je n'ai pas toujours le temps d'aller à la salle de sport, mais cela a changé la donne. Je fais un entraînement complet du corps en seulement 20 minutes et ma force a explosé ! </em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -168,9 +168,9 @@
           "settings": {
             "image": "shopify://shop_images/UYyPtZB.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Force et définition sans blessure",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>J'avais l'habitude de souffrir de douleurs articulaires à force de soulever des poids lourds, mais la résistance contrôlée d'AlphaBar me permet de maintenir une posture parfaite. Mes muscles sont plus dessinés que jamais, sans effort !</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
