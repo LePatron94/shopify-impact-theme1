@@ -280,10 +280,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_QTgwNg": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "pickup_availability_46hwQK": {
           "type": "pickup_availability",
           "settings": {}
@@ -301,7 +297,6 @@
         "image_qPH9xW",
         "description_YjaCGe",
         "variant_picker_kTXhrt",
-        "quantity_selector_QTgwNg",
         "pickup_availability_46hwQK"
       ],
       "settings": {
