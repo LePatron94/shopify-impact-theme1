@@ -204,6 +204,12 @@
     "featured_product_nAyqRH": {
       "type": "featured-product",
       "blocks": {
+        "liquid_Yp7if3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body style=\"background-color: #000;\"> <!-- Ajouté pour fond noir, facultatif -->\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #fff;\">4.8</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #fff;\">(4,386 reviews)</span>\n    </a>\n</body>"
+          }
+        },
         "title_DtQJfN": {
           "type": "title",
           "settings": {
@@ -318,6 +324,7 @@
         }
       },
       "block_order": [
+        "liquid_Yp7if3",
         "title_DtQJfN",
         "badges_KVrBWP",
         "price_FRaCwz",
