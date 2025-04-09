@@ -14,6 +14,7 @@
       "blocks": {
         "heading_Xxyiti": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "30 Jours pour un corps musclé et défini",
             "heading_tag": "h2"
@@ -29,11 +30,12 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/2-weeks-without-workout_1.jpg",
+        "mobile_image": "shopify://shop_images/mmmm.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 10
       }
     },
     "logo_list_h4bnAn": {
