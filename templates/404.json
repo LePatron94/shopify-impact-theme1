@@ -96,6 +96,39 @@
         "logo_item_border": ""
       }
     },
+    "multi_column_tdt64i": {
+      "type": "multi-column",
+      "blocks": {
+        "item_CDQqDM": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/d99363f8ba8d47d296585dc4f0a5fa4a.HD-1080p-7.2Mbps-45267038.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_CDQqDM"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Créée par Axtel aux 🇺🇸 : la première barre de résistance tout-en-un",
+        "content": "<p><strong>Avec l’AlphaBar, chaque mouvement compte.</strong></p><p>Grâce à sa <strong>technologie de résistance progressive intelligente</strong>, la barre s’ajuste en temps réel à votre niveau d'effort : <strong>plus vous poussez, plus elle vous résiste</strong>. Vous relâchez ? Elle vous accompagne.</p><p>Cette réponse dynamique offre bien plus qu’un simple entraînement :<br/><br/>🧠 <strong>Activation musculaire profonde</strong><br/>⚡ <strong>Gains de force accélérés</strong><br/>⏱️ <strong>Résultats visibles, plus rapidement</strong></p><p>Tout ça, <strong>sans brutaliser vos articulations</strong>.</p><p>💥 <strong>C’est l’évolution de la musculation. C’est l’AlphaBar.</strong></p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_HXXjDj": {
       "type": "rich-text",
       "blocks": {
@@ -377,53 +410,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_tdt64i": {
-      "type": "multi-column",
-      "blocks": {
-        "item_CDQqDM": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/d99363f8ba8d47d296585dc4f0a5fa4a.HD-1080p-7.2Mbps-45267038.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_NnPxLD": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/3db26fabb3b343769009a8c31ecd43f7.HD-1080p-7.2Mbps-45267208 (1).mp4",
-            "column_size": "3",
-            "title": "🇺🇸 Construisez un corps mince et défini en seulement 30 jours",
-            "heading_tag": "h2",
-            "content": "<p><strong>Avec l’AlphaBar, chaque mouvement compte.</strong></p><p>Grâce à sa <strong>technologie de résistance progressive intelligente</strong>, la barre s’ajuste en temps réel à votre niveau d'effort : <strong>plus vous poussez, plus elle vous résiste</strong>. Vous relâchez ? Elle vous accompagne.</p><p>Cette réponse dynamique offre bien plus qu’un simple entraînement :<br/><br/>🧠 <strong>Activation musculaire profonde</strong><br/>⚡ <strong>Gains de force accélérés</strong><br/>⏱️ <strong>Résultats visibles, plus rapidement</strong></p><p>Tout ça, <strong>sans brutaliser vos articulations</strong>.</p><p>💥 <strong>C’est l’évolution de la musculation. C’est l’AlphaBar.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_CDQqDM",
-        "item_NnPxLD"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Créée par Axtel aux 🇺🇸 : la première barre de résistance tout-en-un",
-        "content": "<p>Les séances classiques ne suffisent plus. Elles sollicitent <strong>trop peu de fibres musculaires à la fois</strong> et vous freinent dans votre progression.<br/><br/>l'<strong>AlphaBar </strong>répond à la courbe de force naturelle de votre corps<br/><br/>Vous voulez des résultats visibles <strong>avant l’été</strong> ?<br/><br/>Avec seulement <strong>un mois d’utilisation régulière</strong>, vous ressentez la différence :<br/>un corps plus sec, plus sculpté, plus confiant.<strong><br/></strong></p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "accordion_content_EGXxBy": {
       "type": "accordion-content",
       "blocks": {
@@ -595,13 +581,13 @@
   "order": [
     "image_with_text_overlay_CCFzfM",
     "logo_list_h4bnAn",
+    "multi_column_tdt64i",
     "rich_text_HXXjDj",
     "image_with_text_overlay_fFkLnQ",
     "custom_liquid_PUMXWt",
     "multi_column_nAdwdn",
     "main",
     "featured_product_nAyqRH",
-    "multi_column_tdt64i",
     "accordion_content_EGXxBy",
     "contact_iq4LtF",
     "text_with_icons_YeNwkz"
