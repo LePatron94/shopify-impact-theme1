@@ -277,6 +277,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_iyCJHy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-04-07_a_18.53.09.png",
+            "alignment": "center",
+            "max_width": 290
+          }
+        },
         "image_8reC6z": {
           "type": "image",
           "settings": {
@@ -297,14 +305,6 @@
             "image": "shopify://shop_images/MJOJOP.png",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "image_iyCJHy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-04-07_a_18.53.09.png",
-            "alignment": "center",
-            "max_width": 290
           }
         },
         "description_YjaCGe": {
@@ -349,10 +349,10 @@
         "image_BQTGn3",
         "kaching_bundles_app_block_Jp9KEc",
         "buy_buttons_gNBgWb",
+        "image_iyCJHy",
         "image_8reC6z",
         "liquid_r86aRq",
         "image_PzR4cx",
-        "image_iyCJHy",
         "description_YjaCGe",
         "variant_picker_kTXhrt",
         "pickup_availability_46hwQK",
