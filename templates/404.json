@@ -241,7 +241,7 @@
         "image_BQTGn3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/nnnnnnnnnn.png",
+            "image": "shopify://shop_images/NLDKQSKLQNKDL_ea99d7da-1f5b-4ebf-94b8-753a630202aa.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -266,7 +266,7 @@
         "liquid_r86aRq": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"loved-by-customers\">\n  <span>❤️ Loved by over 120,000 users</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background: #FFD1D1;\n    color: #A71E1E;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>❤️ Aimé par + de 160,000 utilisateurs aux 🇺🇸 </span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background: #FFD1D1;\n    color: #A71E1E;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
           }
         },
         "liquid_NGkMzh": {
