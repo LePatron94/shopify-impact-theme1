@@ -335,6 +335,7 @@
         },
         "image_PzR4cx": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/MJOJOP.png",
             "alignment": "center",
