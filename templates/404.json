@@ -96,6 +96,31 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_HXXjDj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CC3zFN": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir AlphaBar Pro ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CC3zFN"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_fFkLnQ": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -132,6 +157,7 @@
       "block_order": [
         "item_CDQqDM"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
@@ -141,31 +167,6 @@
         "title": "Créée par Axtel aux 🇺🇸 : la première barre de résistance tout-en-un",
         "content": "<p>Voici ce qu'elle permet :<br/><br/>🧠 Une <strong>Activation musculaire profonde</strong><br/>⚡ Des <strong>Gains de force accélérés</strong><br/>⏱️ Des <strong>Résultats visibles, plus rapidement</strong></p><p>C’est l’évolution de la musculation<strong>. C’est l’AlphaBar.</strong></p>",
         "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_HXXjDj": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_CC3zFN": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir AlphaBar Pro ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_CC3zFN"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": ""
       }
