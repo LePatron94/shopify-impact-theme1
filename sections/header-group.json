@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Paiement 100% Sécurisé",
+            "text": "Paiement 100% Sécurisé ✅",
             "url": ""
           }
         },
         "message_iLJriN": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou remboursé",
+            "text": "Satisfait ou remboursé 💳",
             "url": ""
           }
         }
