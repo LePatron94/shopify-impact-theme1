@@ -96,6 +96,22 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_fFkLnQ": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/DRBILAL.png",
+        "mobile_image": "shopify://shop_images/DRBILAL.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 5
+      }
+    },
     "multi_column_tdt64i": {
       "type": "multi-column",
       "blocks": {
@@ -152,22 +168,6 @@
         "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_fFkLnQ": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/DRBILAL.png",
-        "mobile_image": "shopify://shop_images/DRBILAL.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 5
       }
     },
     "custom_liquid_PUMXWt": {
@@ -581,9 +581,9 @@
   "order": [
     "image_with_text_overlay_CCFzfM",
     "logo_list_h4bnAn",
-    "multi_column_tdt64i",
     "rich_text_HXXjDj",
     "image_with_text_overlay_fFkLnQ",
+    "multi_column_tdt64i",
     "custom_liquid_PUMXWt",
     "multi_column_nAdwdn",
     "main",
