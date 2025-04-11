@@ -174,19 +174,6 @@
     "multi_column_nAdwdn": {
       "type": "multi-column",
       "blocks": {
-        "item_c6zpgt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/RUvNbPM.png",
-            "column_size": "3",
-            "title": "“Un système qui pousse ton corps à progresser”",
-            "heading_tag": "h4",
-            "content": "<p><em>Ce que j’aime avec l’AlphaBar, c’est que la difficulté n’est jamais figée. La résistance augmente naturellement selon ton effort.<br/><br/></em><strong>Julien Morel, 29 ans – Grenoble (38)</strong></p><p></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_hFPjN7": {
           "type": "item",
           "settings": {
@@ -195,6 +182,19 @@
             "title": "“20 minutes par jour, et mon corps s’est transformé”",
             "heading_tag": "h4",
             "content": "<p><em>J’ai deux enfants, un job prenant, et aucune envie de passer 1h à la salle. L’AlphaBar m’a redonné le goût de bouger. <br/><br/></em><strong>Sarah Benyahia, 32 ans – Lyon (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_c6zpgt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/RUvNbPM.png",
+            "column_size": "3",
+            "title": "“Un système qui pousse ton corps à progresser”",
+            "heading_tag": "h4",
+            "content": "<p><em>Ce que j’aime avec l’AlphaBar, c’est que la difficulté n’est jamais figée. La résistance augmente naturellement selon ton effort.<br/><br/></em><strong>Julien Morel, 29 ans – Grenoble (38)</strong></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,8 +215,8 @@
         }
       },
       "block_order": [
-        "item_c6zpgt",
         "item_hFPjN7",
+        "item_c6zpgt",
         "item_LWcWVR"
       ],
       "settings": {
