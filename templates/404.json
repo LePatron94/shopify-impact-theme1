@@ -489,9 +489,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "subheading": "Notre équipe vous répondent tous les jours de la semaine. Temps de réponse moyen : 24h",
         "title": "Une question ?",
-        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "content": "<p>Vous pouvez nous écrire via le formulaire ci-dessous et nous vous répondrons dans les délais les plus rapides.</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
