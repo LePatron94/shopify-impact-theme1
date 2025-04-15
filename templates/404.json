@@ -318,7 +318,7 @@
         "liquid_r86aRq": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"loved-by-customers\">\n  <span>✅‎ ‎ ‎+160,000 utilisateurs convaincus aux 🇺🇸 – Pourquoi pas Toi ?</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background: #FFD1D1;\n    color: #A71E1E;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>✅‎ ‎ ‎+160,000 utilisateurs convaincus aux 🇺🇸 – Pourquoi pas toi ?</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background: #FFD1D1;\n    color: #A71E1E;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
           }
         },
         "image_PzR4cx": {
@@ -360,6 +360,13 @@
             "title": "GARANTIE DE REMBOURSEMENT - Satisfait ou Remboursé intégralement",
             "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincue par votre achat, <strong>vous avez 30 jours pour nous le retourner – sans justification nécessaire</strong>. Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Contactez nous a l'adresse :<br/><strong>contact@axtel-project.fr</strong></p><p><strong>C’est la promesse AXTEL 💪🏼💪🏾💪🏿</strong></p>"
           }
+        },
+        "collapsible_text_qXQGmx": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Combien de temps prend la livraison ?",
+            "content": "<p>Nous proposons une expédition suivie et assurée dans le monde entier de 4 à 8 jours </p>"
+          }
         }
       },
       "block_order": [
@@ -380,7 +387,8 @@
         "variant_picker_kTXhrt",
         "pickup_availability_46hwQK",
         "separator_rDMEtm",
-        "collapsible_text_fMgXQb"
+        "collapsible_text_fMgXQb",
+        "collapsible_text_qXQGmx"
       ],
       "settings": {
         "full_width": true,
