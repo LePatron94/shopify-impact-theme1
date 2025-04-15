@@ -365,7 +365,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Combien de temps prend la livraison ?",
-            "content": "<p>Nous proposons une expédition suivie et assurée dans le monde entier de 4 à 8 jours<br/><br/><em><strong>(Note : La livraison est d'autant plus accélérée en France)</strong></em></p>"
+            "content": "<p>Nous proposons une expédition suivie et assurée dans le monde entier de 4 à 8 jours.</p>"
           }
         }
       },
