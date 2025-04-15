@@ -14,14 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_tgyLY4": {
-          "type": "text",
-          "settings": {
-            "title": "Nous contacter",
-            "content": "<p><strong>Service client</strong>: contact@axtelproject.com</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
-            "enable_follow_on_shop": true
-          }
-        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -38,6 +30,14 @@
             "show_menu_title": true
           }
         },
+        "text_tgyLY4": {
+          "type": "text",
+          "settings": {
+            "title": "Nous contacter",
+            "content": "<p><strong>Service client</strong>: contact@axtelproject.com</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -48,9 +48,9 @@
         }
       },
       "block_order": [
-        "text_tgyLY4",
         "newsletter",
         "links",
+        "text_tgyLY4",
         "text"
       ],
       "settings": {
