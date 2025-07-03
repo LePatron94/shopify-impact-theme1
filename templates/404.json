@@ -30,7 +30,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/BANNIERE-PC-OK.png",
-        "mobile_image": "shopify://shop_images/30_JOURS_POUR_UN_PHYSIQUE_DE_REVE.zip_-_2.png",
+        "mobile_image": "shopify://shop_images/30_JOURS_POUR_UN_PHYSIQUE_DE_REVE.zip_-_2_f28e857d-461c-4b66-92ee-ce29a0361e13.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
