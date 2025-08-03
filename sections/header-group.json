@@ -20,15 +20,23 @@
             "text": "🚨STOCK FAIBLE : Pas de Réapprovisionnement jusqu'à 2026 🚨",
             "url": ""
           }
+        },
+        "message_JEG3mP": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_JEG3mP"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 21,
         "background": "#64d3e9",
         "background_gradient": "",
